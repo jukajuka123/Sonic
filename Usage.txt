@@ -5,7 +5,7 @@ Sonic volume down
 Sonic mute
 Sonic screenshot
 Sonic news
-Sonic remind me (sati) and (minuta) poslije toga kazes za sta
+Sonic remind me (hours) and (minutes)
 Sonic weather
 Sonic dictate
 Sonic study
@@ -21,8 +21,8 @@ Sonic lock
 Sonic search
 Sonic transfer files
 Sonic clear screen
-Sonic play something (bosnian, english) (nekad ne otvori Fullscreen browser)
-Sonic left,right,up,down (i onda broj koliko puta, one two three ili nista)
+Sonic play something (bosnian, english)
+Sonic left,right,up,down
 Sonic enter
 Sonic space
 Sonic save battery on/off

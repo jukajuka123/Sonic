@@ -1,4 +1,4 @@
-Sonic volume up\n 
+Sonic volume up\
 Sonic volume down
 Sonic mute
 Sonic screenshot

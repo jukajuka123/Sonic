@@ -1,4 +1,4 @@
-Sonic je glavna rijec
+
 
 Sonic volume up
 Sonic volume down
@@ -27,9 +27,3 @@ Sonic enter
 Sonic space
 Sonic save battery on/off
 Sonic usage
-
-Ideja:
-Sonic edge (vec otvoren)
-Sonic new edge (otvara novi)
-i slicno ovima.
-Sonic nesto sa tv-om? da sharea screen?
